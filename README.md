@@ -1,1 +1,2 @@
 # MobileDeveloperTest
+For this test, I have applied Android Studio and mainly Java in my code. I set up a user class to hold the attributes for the create contact page. I have also connected the code with the Cloud database in order to store data (For some reasons, it does not work well). I have tried to run the program with an emulator and the homepage and createContact page seems to work well by comparing to other pages. I didn't get to complete the functionality of the remaining pages, like search and the filtering option.
